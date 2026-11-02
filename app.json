@@ -27,9 +27,12 @@
         {
           "photosPermission": false,
           "savePhotosPermission": "Allow Photo Lab to save edited photos.",
-          "granularPermissions": ["photo"]
+          "granularPermissions": [
+            "photo"
+          ]
         }
-      ]
+      ],
+      "expo-status-bar"
     ],
     "ios": {
       "supportsTablet": true
